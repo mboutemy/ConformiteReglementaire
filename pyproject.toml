@@ -1,0 +1,7 @@
+[project]
+name = "conformite-reglementaire"
+version = "0.0.1"
+description = "Conformité règlementaire : LLM mockée"
+requires-python = ">=3.9"
+# Phase 1 : aucune dépendance — le slice tourne avec la bibliothèque standard.
+dependencies = []
