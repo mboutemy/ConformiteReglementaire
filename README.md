@@ -62,6 +62,7 @@ On peut tester ensuite sous docker :
 ```
 docker compose run train
 
+Image conformitereglementaire-train Built
 Container conformitereglementaire_phase2-train-run-b348c3a53207 Creating 
 Container conformitereglementaire_phase2-train-run-b348c3a53207 Created 
 Modèle entraîné et sauvegardé : /app/models/category_model_v1.json
