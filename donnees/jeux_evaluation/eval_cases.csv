@@ -1,0 +1,7 @@
+eval_id,document_excerpt,applicable_regulation,expected_nc_articles,expected_severity,notes
+EVAL-C1,"Notre entreprise conserve les données clients pendant 10 ans pour des raisons commerciales. Nous n'avons pas de DPO désigné mais traitons les données de 800 clients.",REG-001,Art.12|Art.18,HIGH,"Test détection multi-NC : durée conservation + absence DPO"
+EVAL-C2,"Le dernier test de pénétration de notre SI date de 26 mois. Notre plan de réponse aux incidents a été rédigé en 2021 et n'a pas été testé.",REG-002,Art.7|Art.11,CRITICAL,"Test NC cybersécurité"
+EVAL-C3,"Nous utilisons un algorithme de scoring automatique pour l'attribution de crédit. Les décisions sont entièrement automatisées sans relecture humaine.",REG-007,Art.6|Art.8,CRITICAL,"Test NC IA - deux articles distincts"
+EVAL-C4,"Notre contrat avec notre prestataire cloud américain ne mentionne pas explicitement la localisation des serveurs. Les données sont répliquées sur 3 régions.",REG-006,Art.5,HIGH,"Test NC cloud - localisation données"
+EVAL-C5,"Nous avons un plan de continuité validé en 2022. Notre RTO est de 48h. Nous avons 1200 employés.",REG-003,Art.2,CRITICAL,"Test NC continuité - RTO insuffisant pour taille entité"
+EVAL-C6,"Nos journaux d'accès aux données personnelles sont conservés 6 mois. Nous avons eu un incident de sécurité mineur le mois dernier, notifié à l'ACSI sous 72h.",REG-005|REG-009,Art.3|Art.5,MEDIUM,"Test multi-règlement, notif incident limite"

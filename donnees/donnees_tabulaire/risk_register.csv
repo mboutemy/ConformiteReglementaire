@@ -1,0 +1,11 @@
+risk_id,entity_id,risk_category,risk_description,likelihood,impact,mitigation_measures,status,last_review_date
+RSK-001,ENT-001,regulatory,Non-respect des délais de notification d'incidents,LOW,MEDIUM,"Procédure automatisée de détection et notification",active,2024-01-15
+RSK-002,ENT-005,operational,Rupture de continuité suite à sinistre majeur,HIGH,HIGH,"Nouveau site de repli en cours de qualification",active,2024-02-01
+RSK-003,ENT-005,technical,Vulnérabilité SI non détectée par pentest,MEDIUM,HIGH,"Audit externe annuel obligatoire",active,2024-02-01
+RSK-004,ENT-009,compliance,Conservation excessive de données clients,HIGH,MEDIUM,"Projet de purge automatique",active,2024-03-01
+RSK-005,ENT-009,operational,RTO non conforme aux exigences,MEDIUM,CRITICAL,"Révision architecture de repli",active,2024-01-15
+RSK-006,ENT-013,technical,Segment réseau insuffisant,HIGH,CRITICAL,"Projet de refonte réseau",active,2023-12-10
+RSK-007,ENT-015,regulatory,Déploiement IA sans conformité Art.7 REG-007,MEDIUM,HIGH,"Audit biais et supervision humaine",active,2024-03-15
+RSK-008,ENT-020,compliance,Externalisation cloud non conforme,MEDIUM,HIGH,"Renégociation contrat",active,2024-03-10
+RSK-009,ENT-017,operational,Pas de site de repli pour systèmes critiques,HIGH,CRITICAL,"Contrat hébergement secondaire signé",in_progress,2024-02-20
+RSK-010,ENT-010,technical,Données non chiffrées au repos,HIGH,HIGH,"Projet chiffrement en cours",active,2024-02-15

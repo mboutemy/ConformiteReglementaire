@@ -1,0 +1,64 @@
+{
+  "model": "keywords-domain-model",
+  "version": "v1",
+  "trained_at": "2026-10-01",
+  "keywords": {
+    "data_governance": [
+      "gouvernance des données",
+      "conservation",
+      "traçabilité",
+      "archivage"
+    ],
+    "cybersecurity": [
+      "sécurité",
+      "cybersécurité",
+      "chiffrement",
+      "données sensibles",
+      "test de pénétration"
+    ],
+    "business_continuity": [
+      "continuité",
+      "reprise d'activité",
+      "résilience",
+      "heures",
+      "rto"
+    ],
+    "audit": [
+      "audit",
+      "traçabilité",
+      "inspection",
+      "vérification"
+    ],
+    "cloud": [
+      "cloud",
+      "localisation",
+      "région"
+    ],
+    "ai_governance": [
+      "intelligence artificielle",
+      "machine learning",
+      "scoring",
+      "automatisées",
+      "automatique"
+    ],
+    "data_protection": [
+      "dpo",
+      "délégué protection",
+      "délégué à la protection",
+      "délégué de protection",
+      "protection des données"
+    ],
+    "incident_management": [
+      "incident",
+      "gestion des incidents"
+    ],
+    "data_retention": [
+      "rétention",
+      "conserve",
+      "durée de conservation",
+      "durée de rétention",
+      "archivage",
+      "suppression"
+    ]
+  }
+}

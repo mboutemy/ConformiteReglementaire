@@ -1,0 +1,11 @@
+regulation_id,code,full_name,domain,effective_date,revision_date,scope,criticality,issuer
+REG-001,RGD-2024,Règlement sur la Gouvernance des Données 2024,data_governance,2024-01-01,null,Toute entité traitant des données de plus de 500 personnes,HIGH,ACSI
+REG-002,DSI-2023,Directive Sécurité des Systèmes d'Information 2023,cybersecurity,2023-07-01,null,Entités de secteur critique (santé énergie finance),HIGH,ACSI
+REG-003,PCR-2022,Protocole de Continuité et Résilience 2022,business_continuity,2022-01-01,2024-01-01,Entités > 250 employés,MEDIUM,ACSI
+REG-004,RGD-2022,Règlement sur la Gouvernance des Données 2022,data_governance,2022-01-01,2024-01-01,Toute entité traitant des données,MEDIUM,ACSI
+REG-005,TRA-2023,Règlement Traçabilité et Audit 2023,audit,2023-01-01,null,Entités sous contrôle ACSI,MEDIUM,ACSI
+REG-006,CLOUD-2024,Directive Cloud et Externalisation 2024,cloud,2024-06-01,null,Entités externalisant des données critiques,HIGH,ACSI
+REG-007,AI-2024,Règlement Systèmes IA à Usage Professionnel 2024,ai_governance,2024-09-01,null,Entités déployant des systèmes IA,HIGH,ACSI
+REG-008,DPO-2023,Circulaire Délégué Protection des Données 2023,data_protection,2023-03-01,null,Entités soumises au RGD,LOW,ACSI
+REG-009,INC-2022,Protocole Notification d'Incidents 2022,incident_management,2022-06-01,null,Toutes entités sous contrôle ACSI,MEDIUM,ACSI
+REG-010,RET-2023,Règlement Rétention et Archivage 2023,data_retention,2023-09-01,null,Toute entité archivant des données,LOW,ACSI

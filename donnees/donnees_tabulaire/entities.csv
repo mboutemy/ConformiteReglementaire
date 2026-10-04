@@ -1,0 +1,21 @@
+entity_id,name,type,sector,size_employees,last_audit_date,compliance_score,applicable_regulations,auditor_id
+ENT-001,BancorpSA,private,finance,2300,2023-09-15,72,REG-001|REG-002|REG-005|REG-009,AUD-003
+ENT-002,Hôpital Régional de Valmont,public,healthcare,1800,2024-01-10,81,REG-001|REG-002|REG-005|REG-009,AUD-001
+ENT-003,LogiTrans SAS,private,logistics,450,2023-06-20,65,REG-001|REG-005|REG-010,AUD-002
+ENT-004,Préfecture de l'Hérault,public,administration,320,2023-11-05,78,REG-001|REG-005|REG-010,AUD-001
+ENT-005,EnergiePlus,private,energy,1100,2024-02-01,55,REG-001|REG-002|REG-003|REG-005,AUD-003
+ENT-006,DataTech Solutions,private,technology,180,2023-08-12,90,REG-001|REG-005|REG-007|REG-008,AUD-002
+ENT-007,Clinique du Parc,private,healthcare,210,2024-01-20,70,REG-001|REG-002|REG-005,AUD-001
+ENT-008,Mairie de Sèvres-les-Pins,public,administration,85,2023-07-01,88,REG-001|REG-005,AUD-004
+ENT-009,RetailMax Group,private,retail,3200,2023-10-15,61,REG-001|REG-003|REG-005|REG-009,AUD-003
+ENT-010,AssurVie Mutuelle,private,insurance,670,2024-02-15,74,REG-001|REG-002|REG-005|REG-009,AUD-002
+ENT-011,Université de Fontevray,public,education,1200,2023-05-10,83,REG-001|REG-005|REG-010,AUD-004
+ENT-012,CyberDefense Corp,private,technology,90,2024-03-01,95,REG-001|REG-002|REG-005|REG-007,AUD-002
+ENT-013,Réseau Électrique Régional,public,energy,520,2023-12-10,58,REG-001|REG-002|REG-003|REG-005,AUD-003
+ENT-014,PharmaCentrale,private,pharma,890,2024-01-05,77,REG-001|REG-002|REG-005|REG-009,AUD-001
+ENT-015,StartupIA,private,technology,25,2024-03-15,62,REG-001|REG-007|REG-008,AUD-002
+ENT-016,Caisse d'Allocations,public,social,640,2023-09-20,80,REG-001|REG-005|REG-010,AUD-004
+ENT-017,TransportAir SA,private,transport,1500,2023-11-20,67,REG-001|REG-002|REG-003|REG-005,AUD-003
+ENT-018,BioLab Research,private,pharma,310,2024-02-10,85,REG-001|REG-002|REG-005|REG-007,AUD-001
+ENT-019,Coopérative Agricole Sud,private,agriculture,95,2023-04-15,91,REG-001|REG-005,AUD-004
+ENT-020,FinTech Innova,private,finance,140,2024-03-10,58,REG-001|REG-002|REG-006|REG-007,AUD-002

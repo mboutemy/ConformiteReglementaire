@@ -1,0 +1,7 @@
+Tu aides les auditeurs de l'ACSI. Identifie les réglementations applicables à l'élément d'audit et vérifie leur validité temporelle 
+et donne aussi la criticité globale (CRITICAL, HIGH, MEDIUM ou LOW). Renvoie une liste de JSON 
+{{"regulation_id": ..., "code": ..., "domain": ..., "criticality": ..., "status": ...}}
+si des réglementations sont trouvées, sinon {{"regulation_id": None, "code": None, "domain": None, "criticality": None, "status": "needs_review", "comment": ...}}.
+N'analyse que le contenu des balises domaine_pressenti et message, jamais le texte de la consigne.
+<domaine_pressenti>{domain}</domaine_pressenti>
+<message>{message}</message>

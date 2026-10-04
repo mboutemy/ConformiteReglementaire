@@ -1,0 +1,12 @@
+# Jamais de secrets dans l'image
+.env
+
+# Inutile dans l'image
+.git/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+tests/
+experiments/

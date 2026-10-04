@@ -1,0 +1,15 @@
+control_id,entity_id,regulation_id,control_title,planned_date,completed_date,status,result,finding,auditor_id
+CTL-001,ENT-001,REG-001,Audit registre traitements,2024-03-01,2024-03-15,completed,non_conform,NC-001 detected,AUD-003
+CTL-002,ENT-001,REG-009,Audit notification incidents,2024-02-15,2024-02-20,completed,conform,Nothing to report,AUD-003
+CTL-003,ENT-003,REG-001,Audit DPO désigné,2023-11-01,2023-11-10,completed,non_conform,NC-003 detected,AUD-002
+CTL-004,ENT-005,REG-002,Audit pentest,2024-04-01,null,planned,null,Pending,AUD-003
+CTL-005,ENT-005,REG-002,Audit plan réponse incidents,2024-03-15,null,planned,null,Pending,AUD-003
+CTL-006,ENT-005,REG-003,Audit PCA,2024-05-01,null,planned,null,Pending,AUD-003
+CTL-007,ENT-009,REG-001,Audit rétention données,2024-03-20,2024-04-05,completed,non_conform,NC-007 detected,AUD-003
+CTL-008,ENT-009,REG-003,Audit RTO,2024-01-10,2024-01-15,completed,non_conform,NC-008 detected,AUD-003
+CTL-009,ENT-013,REG-002,Audit segmentation réseau,2024-05-15,null,planned,null,Pending,AUD-003
+CTL-010,ENT-013,REG-002,Audit auditeur externe,2024-02-20,2024-03-01,completed,non_conform,NC-010 detected,AUD-003
+CTL-011,ENT-015,REG-007,Audit biais algorithmique,2024-08-01,null,planned,null,Pending,AUD-002
+CTL-012,ENT-015,REG-007,Audit supervision humaine,2024-08-15,null,planned,null,Pending,AUD-002
+CTL-013,ENT-020,REG-006,Audit localisation données cloud,2024-05-20,null,planned,null,Pending,AUD-002
+CTL-014,ENT-020,REG-007,Audit explainability IA,2024-08-20,null,planned,null,Pending,AUD-002
